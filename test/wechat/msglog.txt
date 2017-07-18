@@ -1,0 +1,452 @@
+我不说
+可以说说呗
+我还没到
+[流泪][流泪]
+电脑吗？
+我回来拿电脑了呀
+在地铁上呢
+昨天睡南环了
+[大哭][大哭]
+知道
+意思是电脑还没到？
+我没到
+还有多久
+在地铁上呢
+来给一凡打防疫针了
+10分钟到
+[流泪][流泪]
+哦我
+宝妞哭了没
+[偷笑][偷笑]
+哭的很痛很痛
+老板，号被封了
+啊哈哈
+你怎么这个起伏啊，啊哈哈，呵呵呵
+哈哈哈哈
+哈哈
+哈哈哈
+哈哈
+攻击力
+一攻击力打一滴血吔
+李丽婷
+天下第一大姓李姓位置易主了耶～
+听一下
+听见不如看见，看见不如用心领悟。
+听你们
+目前还不会呀，和我聊点别的吧!
+张宇飞
+我在D口
+没下来？
+是吗？
+我下不去啊
+好嘞
+你上来，我在刷卡的地方
+好嘞
+嗯嗯
+还没停车
+AttributeError: 'Friend' object has no attribute 'Card'
+我的崩了
+有没有什么方法可以获取用户头像url地址？
+又上车了
+一上午过去了
+我今天晚班
+十点半才上班
+哦哦
+[害羞][害羞]
+content
+roomList
+时间已经过了
+[撇嘴][撇嘴]
+地铁信号不好
+[呲牙][呲牙]
+瞌睡死我了
+[呲牙]
+还有两站
+十二点了[流泪][流泪]
+@游否 吃饭了吗 帮我看看？
+亲情圈是什么东东
+[惊讶][惊讶]
+收到了？
+可以发了，
+收到了
+这个号不是不能用的号吗？
+但是那个手机没流量
+支付宝号太多了
+18237119668那个？？
+不说从消息的card 是从frieds 里面的 card 怎么发啊
+对呀
+不是被封了？
+对呀
+然后呢
+为啥还能收到
+什么
+[大哭][大哭]
+我有点乱
+刚才的通知
+亲情圈
+张一凡93厘米了
+收到了，但是那个手机没流量
+那个号既然被封了为什么还能收到这个通知
+没登支付宝
+短信发的？
+什么意思
+昵称带特殊字符的，能看到源代码吗
+对呀
+哈哈
+小胖子
+把这个号换成你的新号吧
+我的新号？
+个子比上一年长了十几厘米
+哪个？
+新支付宝号
+他爹还说为啥俺们衣服小了[撇嘴]
+我换还是你换？
+绑定的这个不是被封了吗？
+我换
+你怀孕了？
+怀你的？？
+我半年内已经不近女色了
+不近男色
+怀不了了
+https://20000132.h5app.alipay.com/www/signResult.htm?fromQuery=false
+要不然怎么那么搞的那么蠢
+你撤回了一条消息
+人话都听不懂了
+{'MediaId': '', 'HasProductId': 0, 'StatusNotifyUserName': '', 'ToUserName': '@86431034b66ec8dd46a778f6fcf6909fa7e86329a86a47687aa25921109c5aa9', 'FromUserName': '@21f8f985fe4a0263d67146142b057971fedc097af6160d1cb881f69ad7753a90', 'ImgHeight': 0, 'ForwardFlag': 0, 'AppInfo': {'AppID': '', 'Type': 0}, 'Content': '<?xml version="1.0"?>\n<msg bigheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/OdIG5tib2zNm8Sn3QRwnlvJgKP4Mf7dd1S22j2TrLuYK3tw77QgxAlw7rXNR7BQmUWibkYlvxibAGKicL5SobkhAMg/0" smallheadimgurl="http://wx.qlogo.cn/mmhead/ver_1/OdIG5tib2zNm8Sn3QRwnlvJgKP4Mf7dd1S22j2TrLuYK3tw77QgxAlw7rXNR7BQmUWibkYlvxibAGKicL5SobkhAMg/132" username="v1_44391bb73c39f1e43ccb828d323ee4da4954d17767664c24c056aa5c611decd92feaedc1eee521344f623cc59755ff8d@stranger" nickname="Angela"  shortpy="" alias="" imagestatus="3" scene="17" province="泽西岛" city="泽西岛" sign="" sex="2" certflag="0" certinfo="" brandIconUrl="" brandHomeUrl="" brandSubscriptConfigUrl="" brandFlags="0" regionCode="JE" antispamticket="v2_a2e8d6b5276a98f4402b0e848396758bd1386be312edaa6e2b4370d24bec500e619537f2bf471115bc76f31f8ffd1730@stranger" />\n', 'CreateTime': 1489032284, 'Url': '', 'Type': 'Card', 'NewMsgId': 264933809879442503, 'OriContent': '', 'MsgId': '264933809879442503', 'RecommendInfo': {'UserName': '@5e1684351e6f78e882c2a5765b31a38c8f3e7dc2fec8e89331e8523fa1b0ae2c', 'OpCode': 0, 'Province': '泽西岛', 'Ticket': '', 'City': '泽西岛', 'Signature': '', 'VerifyFlag': 0, 'QQNum': 0, 'Content': '', 'Sex': 2, 'Scene': 17, 'NickName': 'Angela', 'AttrStatus': 32, 'Alias': ''}, 'VoiceLength': 0, 'ImgStatus': 1, 'SubMsgType': 0, 'Ticket': '', 'Text': {'UserName': '@5e1684351e6f78e882c2a5765b31a38c8f3e7dc2fec8e89331e8523fa1b0ae2c', 'OpCode': 0, 'Province': '泽西岛', 'Ticket': '', 'City': '泽西岛', 'Signature': '', 'VerifyFlag': 0, 'QQNum': 0, 'Content': '', 'Sex': 2, 'Scene': 17, 'NickName': 'Angela', 'AttrStatus': 32, 'Alias': ''}, 'ImgWidth': 0, 'StatusNotifyCode': 0, 'FileName': '', 'MsgType': 42, 'AppMsgType': 0, 'FileSize': '', 'PlayLength': 0, 'Status': 3}
+名片 raw 是这样的 怎么发送 自己的好友的名片推给别人啊
+@游否 大神
+送我花了？
+不会又是小七吧
+你感觉我会有这个想法吗？
+不会
+根据现有的格式构建就可以了吧
+一些未知的属性，可以先保持不变
+大神 你能添加个属性吗， 推名片 给朋友 也算 挺常用的了
+可以的
+以后会增加更多方法的
+你来北京小七怎么办
+再找个女朋友？
+估计是吧
+昨天已经找了吧
+我们分手了
+我准备把花还给她去
+谢谢 名片 数据挺多的 
+名片能主动发么
+web微信好像不能发名片啊 虽然能收
+Web微信有些内容可以转发
+另外可能协议功能范围可能会保留一些冗余
+不会发 所以问啊 有大神能帮忙吗
+@游否 
+@牧天 你这个 好好啊 
+下一步接收所有格式消息，然后做语义分析，再然后尝试通过这里手动回复消息
+[强] 好酷
+@霍格格 等做好了支持多用户多微信公用
+我也要
+手机自适应[偷笑]
+很好
+💌 💋
+Emoji 呢
+emoji也会考虑加上
+那个难度应该不大，图片类表情估计难搞一点
+@牧天 发送名片可以吗
+@牧天 你知道怎么发送名片吗
+还没研究过
+你好
+你好呀，～有什么新鲜事儿要对我讲？
+求共享系统
+[奸笑]
+收到红包，请在手机上查看
+@连文典 [强]
+还在补bug
+[偷笑]
+试一下 .string或者是get_text()，试过有一个行另一个不行的情况
+再完善一下下就可以了
+@段凯杰 你在链家？
+😳
+嗯
+突然间热闹起来了呀
+😄
+老孔
+😄
+好久没你动静了
+应该是他打不开github
+😄
+[抠鼻][抠鼻][抠鼻]
+…………他应该没翻墙
+在哪呢
+疲于奔命啊
+....
+😄
+咋了
+上班
+在那里
+上班
+北京
+卧槽
+我是群聊"高三十班"的段凯杰
+这么多人在北京
+还有谁
+可以凑麻将啊
+阮金生
+你已添加了链家段凯杰，现在可以开始聊天了。
+😄
+在深圳的有吗
+是啊
+我啊
+😄
+@牧天 你这是把消息都存起来了。
+@段凯杰 
+你在深圳
+卧槽
+😄
+re解决不行？
+挺好玩的，记录下来能干嘛
+阮金生呢
+@连文典 在哪个区
+宝安
+😄
+反撤回
+我靠终于有一个同学在深圳了
+😄
+pyquery 挺好用
+北京的[微笑]这个
+我通过了你的朋友验证请求，现在我们可以开始聊天了
+[憨笑]
+我在罗湖
+海淀
+住在牡丹园
+[微笑]
+我朝阳呢
+朝阳哪
+操
+北京的建个群
+😄
+可以一起去嗨
+😄
+使馆区这
+反撤回是第一需求
+我大把的信息其实来不及看的
+北京的有好几个
+好像
+然后做语义分析，看每天的消息关键词
++1
+然后管理下联系人，精简一下
+我用mojo-weixin做过一个反撤回
+好多都在北京
+问题是有的视频下载不下来
+还有没有在深圳的
+群聊天很多，每天分享的好东西，也不想去翻，所以有这个直接一下搜出来
+让我惊喜一下
+😄
+@牧天 这个准备怎么用，有开源的想法吗
+视屏也能保存吗
+"😐"邀请"JohnZ"加入了群聊
+"JohnZ"与群里其他人都不是微信朋友关系，请注意隐私安全
+忙么
+收到红包，请在手机上查看
+"😐"邀请"Delete"加入了群聊
+"Delete"与群里其他人都不是微信朋友关系，请注意隐私安全
+准备开源的
+柏杨出来嗨
+😄
+苏州的有没有
+苏州的滚蛋
+一边玩去
+开源吱一声，肯定star[呲牙]
+信不信我回郑州
+哈哈，谢谢
+我也是
+凑合足球队
++1
+切
+猥琐的特兴奋
+悄悄些个
+瞧瞧
+"😐"邀请"西城.NET"加入了群聊
+"西城.NET"与群里其他人都不是微信朋友关系，请注意隐私安全
+robot = Robot(console_qr=-2)
+http://wxpy.readthedocs.io/zh/stable/api/robot.html#wxpy.Robot
+@牧天 期待➕1⃣️
+使用 console_qr 参数
+thx
+还行
+你哪呢
+这是运行10多分钟后的情况，Python进程占用了77.7MB，但 locals() 占用仅2280字节
+我之前发现 itchat 在使用 获取聊天对象列表、消息等方法中，大量使用 deepcopy()，每一次获取都会 deepcopy 一次，会不会是因为这个而占用了大量内存？
+拉萨
+[捂脸]
+看肤色
+我去
+玩去了？
+占用仍在提升
+各位有没有分析python内存占用的经验，分享一下啊？
+工作啊
+西藏自治区拉萨市城关区当热西路1号
+在单位工作
+你在郑州？
+干公务员呢？
+没有啊，志愿者
+援藏
+有想法
+local/lib/python2.7/site-packages/itchat/components/messages.py", line 244, in send_msg
+    logger.debug('Request to send a text message to %s: %s' % (toUserName, msg))
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe4 in position 0: ordinal not in range(128)
+
+
+没追求
+"😐"邀请"杨宏葆"加入了群聊
+"杨宏葆"与群里其他人都不是微信朋友关系，请注意隐私安全
+utf8中文为啥出错？
+可以问个简单问题么[撇嘴]
+这是为什么呀
+@调皮的悟空 你这是成功了啊
+我北京呢
+打工
+是让你升级 pip
+赚钱
+娶媳妇
+没追求
+我现在继续试用wxpy 会不会有影响呢
+"😐"邀请"圣经上的子弹"加入了群聊
+[糗大了]
+不会
+"😐"邀请"赵开忠_老赵"加入了群聊
+"赵开忠_老赵"与群里其他人都不是微信朋友关系，请注意隐私安全
+pip 是 python 包管理工具
+要在python3中运行啊
+不是shell中
+先exit()退出Python，然后再pip3......
+好吧 ,我是2.7的
+Picture
+你好吗
+还不错，你呢
+明明
+果然是她啊
+匿名
+鹈鹕
+戴维斯埃文斯吔
+他老婆
+老婆在家照顾孩儿呢
+他宿舍有
+前面三张是宿舍耶
+头肉
+越来越喜欢你了呀
+太漂亮了
+谢谢啦
+越来越卡
+嗯所以老卡觉醒了啦
+体育咯心咯
+大概会挂体育呢
+你连笑容都这么的有节奏感喔
+提他了8
+没有提伯斯嘛
+ KMPlayer
+KMPlayer
+8欧米娃
+你啊，一知半解哼
+提一下
+你连笑容都这么的有节奏感耶～
+头说啦咯人
+Note
+Note
+我怀疑你的真实动机喔
+Picture
+哈哈
+Picture
+把中文和数字合并是这样吗 有没有简单的方法啊
+'{} {}'.format(s1, s2)
+@游否 你懂哪些语言呀[呲牙]
+膜得有点意外…
+用占位符
+哦 好的 谢谢
+Note
+Note
+Note
+Note
+刚刚在那个50000元兼职帖上的回复好像又让wxpy火了以下…
+Picture
+表示就是从那个入口进来的
+目测已火
+同上
+可以star两次？
+Note
+啊，声明下，最近在大改中，GitHub 主页的 readme 内容超前于 pip3 安装的版本…
+所以文档还是要看这个：http://wxpy.readthedocs.io/zh/stable/
+Note
+那位可能star unstar, and star...
+要提取中间的20 用什么函数啊  findall？
+Picture
+Sharing
+Note
+Note
+Sharing
+[害羞]
+Note
+Note
+Picture
+Picture
+咋没人呢
+Note
+谁见电车钥匙了
+[偷笑]吃饭
+@张懿婷 张宇飞，昨天骑车钥匙呢
+吃饭
+我骑走了啊
+怎么了
+Recording
+Recording
+你们都不聊天吗
+Recording
+Recording
+容易消化不良
+😄
+😂
+没人聊天
+Picture
+都有人一块
+Picture
+新手 这个是什么情况？
+加上 console_qr 参数
+可以内部转
+但是要把前端带完
+Picture
+她说把前端带完，我看看北京哪个部门缺人给你转过去
+八月11号前端带完[流泪][流泪][流泪]
+开什么玩笑
+这个要怎么解决呀
+Picture
+还看看哪个部门缺人
+不缺人呢
+学习一下python吧
+[皱眉]好吧
+Sharing
+读提示啊
+让你执行那句话
+Picture
+是因为在shell中直接执行python语句
+这个问题好像已经问了3遍了
+所以才建议先学习一下 Python
+[撇嘴]我是打开终端直接运行的
+默认的就是shell么
+是的，是默认的shell
+而不是python的shell，python代码不能直接在默认的shell中执行，只能在python shell中或用python解释器执行
+你应该先耐心学习一下python，最好同时再了解一些基本的os概念
+你需要个简明python培训
+http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000
+不过我觉得可以拿写个微信机器人做项目学习python
+这个教程还可以，耐心学一下吧
+这个好像是masd itellyou的站长
+msdn
+@游否 谢谢[酷]
+是指哪位？@🌚‮nimajneB 
+廖雪峰和itellyou没关系吧
+itellyou是什么鬼
+肯定没有，那么大一个v，能去搞盗版？
+itellyou不是盗版吧
+只是一个镜像站
+我上次去itellyou 有捐助入口 好像就是他啊
+不知道是不是我记错了
+是我搞错了
+Sharing
+吓得我刚刚赶紧去看了下是不是 无垠…
+itell面向运维
